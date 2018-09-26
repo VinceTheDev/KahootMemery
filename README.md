@@ -13,4 +13,4 @@ screen -S kahootsmasher
 node kahoot-tools.js
 ```
 
-To run kahoot-tools in dev mode, follow the steps above but replace ```npm run build``` with: ```npm run dev```
+To run kahoot smasher in dev mode, follow the steps above but replace ```npm run build``` with: ```npm run dev```
