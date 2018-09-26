@@ -6,6 +6,7 @@ OS X, Linux and Windows:
 
 ```sh
 git clone https://github.com/idiidk/kahoot-tools.git
+git clone https://github.com/runconnor/kahootsmasher.com.git
 cd kahoot-tools
 sudo npm install
 sudo npm run build
